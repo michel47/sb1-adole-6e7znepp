@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.966131mm"
+   height="22.966131mm"
+   viewBox="0 0 22.966131 22.966131"
+   version="1.1"
+   id="svg56963"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs56960" />
+  <g
+     id="layer1">
+    <circle
+       style="display:none;opacity:0.6;fill:#800080;fill-rule:evenodd;stroke-width:0.259914;-webkit-animation:loading-spinner-animation 0.5s linear infinite;-webkit-animation-delay:-0.291666666666667s"
+       id="bg"
+       cx="11.483066"
+       cy="11.483066"
+       r="11.483066" />
+    <g
+       id="arrow"
+       transform="matrix(0.12289008,0,0,0.12289008,66.554188,-19.586368)">
+      <path
+         id="rect"
+         style="fill:#ddaa00;fill-rule:evenodd;stroke-width:0.142487;-webkit-animation:loading-spinner-animation 0.5s linear infinite;-webkit-animation-delay:-0.5s"
+         d="m -489.95676,190.36273 h 23.477 v 124.92039 h -23.477 z" />
+      <path
+         id="poly"
+         style="color:#ddaa00;fill:currentColor;stroke-width:0.139063;-webkit-animation:loading-spinner-animation 0.5s linear infinite;-webkit-animation-delay:-0.458333333333333s"
+         d="m -466.57946,252.8264 60.2699,-60.26648 c 0,0 -3.0594,40.15179 -3.0593,60.26648 0,20.11238 3.0593,60.25953 3.0593,60.25953 z" />
+    </g>
+  </g>
+</svg>

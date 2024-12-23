@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="270.77692"
+   height="61.455315"
+   viewBox="0 0 270.77692 61.455315"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     id="g8"
+     transform="translate(2,28.727658)">
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,1.9931172 c 0,0 5.2051051,-28.7651932 16.195846,-28.7207232 11.151126,0.04512 16.195847,29.2718509 16.195847,29.2718509 0,0 7.691906,28.0547431 19.025791,28.1829701 10.969081,0.1241 19.02579,-26.852273 19.02579,-26.852273"
+       id="path1066" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.443274,2.5590742 268.77692,1.4409258"
+       id="path2929" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.1757px;line-height:1.25;font-family:'Earth Orbiter Bold';-inkscape-font-specification:'Earth Orbiter Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.829393"
+       x="69.56646"
+       y="-7.8177123"
+       id="text11266"><tspan
+         id="tspan11264"
+         x="69.56646"
+         y="-7.8177123"
+         style="stroke-width:0.829393;fill:#ff0000">Recording</tspan></text>
+  </g>
+</svg>

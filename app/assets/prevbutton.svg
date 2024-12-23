@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.966131mm"
+   height="22.966131mm"
+   viewBox="0 0 22.966131 22.966131"
+   version="1.1"
+   id="svg57096"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57093" />
+  <g
+     id="layer1">
+    <circle
+       style="opacity:0.6;fill:#800080;fill-rule:evenodd;stroke-width:0.259914;-webkit-animation:loading-spinner-animation 0.5s linear infinite;-webkit-animation-delay:-0.291666666666667s"
+       id="bg"
+       cx="11.483066"
+       cy="11.483066"
+       r="11.483066" />
+    <g
+       id="arrow"
+       transform="matrix(-0.12355089,0,0,0.12355089,-13.700499,-19.753433)">
+      <rect
+         style="fill:#ddaa00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15069"
+         id="rect867-8"
+         width="24.828575"
+         height="132.11215"
+         x="150.76122"
+         y="186.76686"
+         transform="scale(-1,1)" />
+      <polygon
+         points="120.2,15.8 0,136 313.2,449.2 0,762.3 120.2,882.5 553.6,449.2 "
+         id="polygon2-5"
+         style="color:#ddaa00;fill:currentColor;fill-opacity:1"
+         transform="matrix(0.14706907,0,0,0.14706907,-256.9018,186.76687)" />
+    </g>
+  </g>
+</svg>

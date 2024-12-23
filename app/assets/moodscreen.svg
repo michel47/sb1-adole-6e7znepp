@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="570.66669"
+   height="1234.6667"
+   viewBox="0 0 570.66669 1234.6667"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient885">
+      <stop
+         style="stop-color:#380066;stop-opacity:1"
+         offset="0"
+         id="stop881" />
+      <stop
+         style="stop-color:#72441c;stop-opacity:1"
+         offset="0.48372155"
+         id="stop1053" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="1"
+         id="stop883" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient885"
+       id="linearGradient887"
+       x1="137.64989"
+       y1="427.87411"
+       x2="428.09344"
+       y2="1034.964"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="display:inline;fill:url(#linearGradient887);fill-opacity:1;fill-rule:evenodd"
+     id="gradient-3points"
+     width="570.66669"
+     height="1234.6667"
+     x="0"
+     y="0" />
+</svg>
